@@ -149,3 +149,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+En esta parte se muestra un pre visualizacion de el componente 
+![image](https://github.com/user-attachments/assets/ffc3fcf8-6b03-4996-8af2-683eb52e1c6b)
+
+en las siguientes imagenes podremos ver los modificables de este componente
+![image](https://github.com/user-attachments/assets/5fa48237-89c1-4389-af67-b43ab51886c1)
+
+
